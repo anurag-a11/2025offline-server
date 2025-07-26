@@ -1,8 +1,1 @@
-NP.txt
-convo.txt
-file.txt
-hatersname.txt
-main.py
-password.txt
-time.txt
-token.txt
+
